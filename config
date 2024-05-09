@@ -230,3 +230,6 @@ bindsym XF86MonBrightnessDown exec /usr/bin/brightnessctl set 10%-
 
 # take screenshot
 bindsym Shift+$mod+s exec flameshot gui
+
+
+for_window [class=".*"] border pixel 2
