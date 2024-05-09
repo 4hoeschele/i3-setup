@@ -171,7 +171,7 @@ mode "resize" {
         bindsym j resize shrink height 5 px or 5 ppt
         bindsym k resize grow height 5 px or 5 ppt
         bindsym l resize grow width 5 px or 5 ppt
-        bindsym odiaeresis resize shrink width 5 px or 5 ppt
+        bindsym h resize shrink width 5 px or 5 ppt
 
         # same bindings, but for the arrow keys
         bindsym Left resize shrink width 10 px or 10 ppt
